@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./synopsisfaunaes00billgoog_0007.png"; bbox 0 0 2192 3464; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 148 1334 872 1422">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 148 1334 872 1422">
+     <span class='ocr_line' id='line_1_1' title="bbox 148 1334 872 1422; baseline -0.003 -24"><span class='ocrx_word' id='word_1_1' title='bbox 148 1416 151 1422; x_wconf 22' lang='lat' dir='ltr'><em>r</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 191 1334 198 1350; x_wconf 55' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 237 1355 459 1406; x_wconf 66' lang='lat' dir='ltr'><strong><em>constitutionem</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 488 1357 608 1404; x_wconf 66' lang='lat' dir='ltr'><strong><em>voluntatis</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 629 1353 722 1401; x_wconf 67' lang='lat' dir='ltr'><em>maxfma</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 750 1357 872 1398; x_wconf 67' lang='lat' dir='ltr'><strong><em>consolatio.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 580 1455 802 1522">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 580 1455 802 1522">
+     <span class='ocr_line' id='line_1_2' title="bbox 580 1455 802 1522; baseline 0.009 -5"><span class='ocrx_word' id='word_1_7' title='bbox 580 1455 587 1478; x_wconf 31' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_8' title='bbox 679 1481 802 1522; x_wconf 67' lang='lat' dir='ltr'><strong>cuno.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1100 3464">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1100 3464">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1100 3464; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1100 3464; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
